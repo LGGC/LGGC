@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Lash
 - 👀 I’m interested in codding, IA programming and learning more 
 - 🌱 I’m currently learning Java, MySQL and FullStack Development
-- 💞️ I’m keen on working experiences that helps me to develop myself
-- 📫 How to reach me: 
-  
+- 💞️ I’m keen on at working experiences that helps me to develop myself
+- 📫 How to reach me:
+- Email: lakshmanasai9@gmail.com
 
 <!---
 LGGC/LGGC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
